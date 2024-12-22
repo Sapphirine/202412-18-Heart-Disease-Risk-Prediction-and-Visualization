@@ -106,4 +106,3 @@ Below are the detailed steps to run the application based on the `app.py` file:
     # To update the model, replace the heart_attack_model.pkl file (a random forest model).
     # Ensure the new model is compatible with the data preprocessing steps.
     ```
-
