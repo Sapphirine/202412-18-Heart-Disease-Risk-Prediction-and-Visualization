@@ -1,10 +1,8 @@
-# Webpage setup
 # YouTube Video: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i-iC6KQ0HJg" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+https://www.youtube.com/watch?v=i-iC6KQ0HJg 
 
 
+# Webpage setup
 # Detailed Steps
 
 Below are the detailed steps to run the application based on the `app.py` file:
